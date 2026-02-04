@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        DucTien Alpha
 // @namespace   http://tampermonkey.net/
-// @version     4.5
+// @version     4.7.6
 // @description Solve exercises with AI
 // @author      DucTien
 // @match       https://*/*

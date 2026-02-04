@@ -1,4 +1,4 @@
-# DucTien Alpha 4.5
+# DucTien Alpha 4.7.6
 - Duc Tien Alpha - Tool AI giải bài tập.
 - Key ưu đãi sử dụng thử trong 3 ngày : THANHHOA9D36
 
@@ -13,7 +13,7 @@
   <img width="212" height="283" alt="image" src="https://github.com/user-attachments/assets/d72b97b7-bcf1-47ed-81e7-dd670a790477" />
 <img width="346" height="348" alt="502563410-cb473923-09f1-4bf0-bee7-6b6d6de90bec (1)" src="https://github.com/user-attachments/assets/2e5e158e-905b-4834-92b0-8f1b44fdf88f" />
   
-Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool: [DucTien Alpha 4.0 (BETA)](https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js)
+Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool: [DucTien Alpha 4..7.6 (BETA)](https://github.com/ductienalpha/DucTien-Alpha/raw/refs/heads/main/tampermonkey.user.js)
 <img width="391" height="152" alt="image" src="https://github.com/user-attachments/assets/dd676010-fee8-4385-8082-0f202ce6a22e" />
 
 

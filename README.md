@@ -1,4 +1,4 @@
-# DucTien Alpha 4.0 (BETA)
+# DucTien Alpha 4.5
 - Duc Tien Alpha - Tool AI giải bài tập.
 - Key ưu đãi sử dụng thử trong 3 ngày : THANHHOA9D36
 

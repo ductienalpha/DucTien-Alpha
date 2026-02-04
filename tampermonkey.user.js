@@ -10,6 +10,8 @@
 // @require     https://raw.githubusercontent.com/ductienalpha/DucTien-Alpha/refs/heads/main/ductien-alpha.js
 // @require     https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
 // @require     https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js
+// @updateURL   https://github.com/ductienalpha/DucTien-Alpha/raw/refs/heads/main/tampermonkey.user.js
+// @downloadURL https://github.com/ductienalpha/DucTien-Alpha/raw/refs/heads/main/tampermonkey.user.js
 // @grant       GM_xmlhttpRequest
 // @grant       GM.xmlHttpRequest
 // @grant       GM.getValue

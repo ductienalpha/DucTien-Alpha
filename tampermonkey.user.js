@@ -1,13 +1,15 @@
 // ==UserScript==
-// @name        DucTien Alpha 4.0
+// @name        DucTien Alpha
 // @namespace   http://tampermonkey.net/
-// @version     4.0
-// @description To solve exercises
+// @version     4.5
+// @description Solve exercises with AI
 // @author      DucTien
-// @require     https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/refs/heads/main/ductien-alpha.js
 // @match       https://*/*
-// @icon        https://i.pinimg.com/1200x/0d/fc/a6/0dfca60200be23af53d552ead0d535be.jpg
-// @grant       GM_addStyle
+// @match       file:///*
+// @icon        https://i.imgur.com/Snuhr6b.jpeg
+// @require     https://raw.githubusercontent.com/ductienalpha/DucTien-Alpha/refs/heads/main/ductien-alpha.js
+// @require     https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
+// @require     https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js
 // @grant       GM_xmlhttpRequest
 // @grant       GM.xmlHttpRequest
 // @grant       GM.getValue
